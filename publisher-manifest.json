@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d3cf482f3e47deb70ac66c66",
+  "owner": "peyrdlgj",
+  "repo": "page-6c3f7796041bbd6dbc39b8ff",
+  "title": "hpdd",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6c3f7796041bbd6dbc39b8ff",
+      "a": "hpdd",
+      "b": "2027官方最新地址导航",
+      "entity": "hpdd",
+      "brand": "hpdd",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "08cb4dd2d9f06d1298ae15e7c862c63c0736bbac04d416c3b46816cba3cbae0d",
+      "content": {
+        "primary_entity": "hpdd",
+        "keyword1": "hpdd",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择对应客户端，先查看适配要求，再导入订阅配置使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "挑选匹配的套餐，按客户端文档配置订阅，即可开始使用 hpdd 海外加速器。",
+          "AI_CLOSING_TITLE": "开始使用 hpdd",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比提供实用信息，覆盖基础版至团队版的三档方案，帮助不同规模的用户找到合适的加速服务。",
+          "AI_FEATURES_INTRO": "从流量、设备数量与线路规格三个角度了解套餐差异。",
+          "AI_FEATURES_TITLE": "套餐选择参考",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备，适合轻度使用与单人多设备场景。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备，含 IPLC 专线游戏加速与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备，提供 VIP 专属高带宽节点与定制路由。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "线路规格差异",
+          "AI_FEATURE_TITLE_3": "年度订阅优惠",
+          "AI_GUIDE_INTRO": "选套餐、查适配、导入订阅，三步开始使用 hpdd。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "hpdd 海外加速器提供基础版、旗舰版与团队版三档套餐，围绕流量额度、设备数量与节点线路划分，方便根据日常使用强度与设备规模选择订阅周期。",
+          "AI_HERO_SUBTITLE": "按设备与流量选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "年付方案更划算",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按设备数量与流量需求选择即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版与团队版之间选择合适方案。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认客户端类型与系统环境是否匹配。",
+          "AI_STEP_TEXT_3": "依照所选客户端的配置文档导入订阅信息，完成设置后连接使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "hpdd 加速器套餐指南",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_TITLE": "常见问答",
+          "AI_FAQ_QUESTION_1": "hpdd 基础版能同时几台设备使用？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，每月 100GB 流量。若设备较多，可选旗舰版 5 台或团队版 20 台。",
+          "AI_FAQ_QUESTION_2": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_2": "旗舰版包含 IPLC 专线游戏加速优化，适合对延迟较敏感的游戏或实时应用，同时支持全节点原生流媒体解锁。",
+          "AI_FAQ_QUESTION_3": "按年付比按月付省多少？",
+          "AI_FAQ_ANSWER_3": "基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相比按月付约十个月价格，长期使用更划算。",
+          "AI_FAQ_QUESTION_4": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "在对应设备客户端中导入 hpdd 订阅链接，按客户端文档说明完成节点选择与连接，不同系统入口略有差异。",
+          "AI_FAQ_QUESTION_5": "团队版支持企业定制吗？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、支持 20 台设备，提供 VIP 高带宽节点与专属客户经理，可联系沟通企业定制路由需求。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--huajicloud-cn3r594m.com",
+    "host": "xn--huajicloud-cn3r594m.com"
+  },
+  "file_hashes": {
+    "index.html": "ea3c7d470485353631f15ba046615f44bdcdb8a34c1a04d0eb4ecb989fff2d10",
+    "sitemap.xml": "9a15ecd90bc63df7b25d283bc07829c35203cc5318f3f222398635c40b5f9e82",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5fce904c84eba219598d0619d459044df46cff9f43f5fdc13a4b402fc072dbde",
+    "robots.txt": "08c444a6a166f570e9522d1ee0c0a9615a5dcf97654573a66fa396cb26d26bb3",
+    "f636b205c39ffe050753194137f81b4c.txt": "f31af807e5a3dd06983f9539693ea06c77be1b6b530ee386f488e7e7fa9b5a0c"
+  },
+  "revision": "beac17c48637850201f7a904f663214511725b28f77b8533aa6ff95f5c8e3137"
+}
